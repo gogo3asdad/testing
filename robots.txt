@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://testing.levelofindirection.com/index_sitemap.xml
